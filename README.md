@@ -150,16 +150,6 @@ npm install
 
 ---
 
-## 👥 팀 정보
-
-| 역할 | 이름 / GitHub ID |
-|------|-----------------|
-| 팀장 / 문서 관리 | 주소영 (rubynewbiee123) |
-| Backend | csharon0218 |
-| Frontend | Anthony0966 |
-| DB / Infra | dayeoniiiki |
-| 보안 / QA | trymimi |
-
 **지도교수**: 오명원 교수님
 
 ---
